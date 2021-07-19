@@ -1,3 +1,3 @@
 # HW10
 ## 2021-07-19
-![ダウンロード](https://user-images.githubusercontent.com/60034043/126181566-602d5d4d-6f71-461a-a863-0bb88c8f6c64.png)
+![](https://user-images.githubusercontent.com/60034043/126185365-5c45d98c-a8de-4cdc-8730-038b1a88a5b3.png)
